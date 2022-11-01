@@ -103,6 +103,12 @@ ___
 </html>
 ```
 
+<br/>
+
+### OUTPUT   
+
+
+<img src="./img/index.png" width="400">
 
 <br/>
 
@@ -143,3 +149,10 @@ Addition Result = <input id="add"><br/><br/>
 </body>
 </html>
 ```
+
+<br/>
+
+### OUTPUT   
+
+
+<img src="./img/index1.png" width="400">
